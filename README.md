@@ -1,1 +1,1 @@
-# -A* Search
+# A* Search
